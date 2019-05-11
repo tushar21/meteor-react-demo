@@ -71,10 +71,6 @@ export default class SignIn extends Component {
   render() {
     return (
       <div className="login-box">
-        <div className="login-logo">
-          <a href="/"><b>Admin</b>LTE</a>
-        </div>
-
         <div className="login-box-body">
           <p className="login-box-msg">Sign in to start your session</p>
           {this.displayLoggingIn()}

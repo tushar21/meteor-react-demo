@@ -80,10 +80,6 @@ export default class SignUp extends Component {
   render() {
     return (
       <div className="login-box">
-        {/* <div className="register-logo">
-          <a href="/"><b>Admin</b>LTE</a>
-        </div>
- */}
         <div className="register-box-body">
           <p className="login-box-msg">Register</p>
           {this.getSignUpResponseMessage()}
