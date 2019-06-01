@@ -1,3 +1,8 @@
+### Admin User Details
+Email : admin@mail.com
+Password : abc123
+
+
 ### Prerequisites
 * Node v6.9 or higher
 * Npm v3 or higher
